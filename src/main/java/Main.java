@@ -5,5 +5,7 @@ public class Main {
         System.out.println(greeting);
 
         System.out.println(greeting.length());
+
+        System.out.println("One plus one is " + (1 + 1));
     }
 }
